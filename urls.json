@@ -1,4 +1,32 @@
 {
     "book1-author-blog": "https://ericwu.asia",
-    "book1-author-blog-about-page": "https://ericwu.asia/about"
+    "book1-author-blog-about-page": "https://ericwu.asia/about",
+    "wp-errata": "https://ericwu.asia",
+    "gandi": "https://www.gandi.net/zh-Hant",
+    "gandi-guide": "https://ericwu.asia",
+    "cloudways": "https://www.cloudways.com/en/",
+    "discord": "https://discord.gg/nbcssWPzyP",
+    "cloudflare": "https://www.cloudflare.com/",
+    "cloudflare-guide": "https://ericwu.asia",
+    "developer-plugins": "https://developer.wordpress.org/plugins/",
+    "woo-commerce-doc": "https://woocommerce.com/docs/",
+    "openverse": "https://wordpress.org/openverse/",
+    "make-wp": "https://make.wordpress.org/",
+    "wp-support-fourms": "https://wordpress.org/support/forums/",
+    "wp-tw-support-fourms": "https://tw.wordpress.org/support/",
+    "make-wp-slack": "https://chat.wordpress.org",
+    "wp-tw-line": "https://line.me/ti/g2/KlPTAbKXLPiClZaz1I9CKSYTNmwi6h7NsHPKqg",
+    "wp-tw-slack": "https://wordpress-tw.slack.com",
+    "wp-tw-facebook": "https://www.facebook.com/groups/wordpresstw",
+    "wp-tw-telegram": "https://web.telegram.im/#/im?p=@wpgroup_tw",
+    "wp-detailed-plugin-guidelines": "https://developer.wordpress.org/plugins/wordpress-org/detailed-plugin-guidelines/",
+    "wp-add-plugin": "https://wordpress.org/plugins/developers/add/",
+    "wp-translate": "https://translate.wordpress.org/",
+    "wp-polyglots": "https://make.wordpress.org/polyglots/",
+    "wp-zh-tw-localization-style-guide": "https://tw.wordpress.org/team/handbook/localization/zh-tw-localization-style-guide/",
+    "wp-zh-tw-glossary": "https://translate.wordpress.org/locale/zh-tw/default/glossary/",
+    "smtp-dns-record-example": "https://gist.github.com/eric0324/3e55f429296474e9705c13dee0b6f663",
+    "wp-pte-request-example": "https://gist.github.com/eric0324/ba4f03594d11b7857a7e25336d1ec476",
+    "wp-contribute-wizard": "https://make.wordpress.org/contribute/"
+    "ob-ai": "https://github.com/eric0324/obsidian-ai"
 }
